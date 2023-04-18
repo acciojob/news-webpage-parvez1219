@@ -1,6 +1,11 @@
 .image{
 	width:300px;
 }
+.latest-news-section{
+	background-color=white;
+	padding:0;
+	width:0;
+}
 th{
 	height:70px;
 	font-size:2rem;
